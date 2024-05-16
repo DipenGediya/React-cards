@@ -90,3 +90,18 @@ nav button {
 .more-about span{
     font-weight: 400;
 }
+
+/* ================= Footer =============== */
+
+footer {
+    background-color:rgb(56 56 56);
+    color: white;
+}
+
+footer a.nav-link {
+    color: white;
+}
+  
+footer button.btn {
+    margin-left: 10px;
+}
